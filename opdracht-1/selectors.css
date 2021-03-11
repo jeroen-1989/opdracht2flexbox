@@ -7,16 +7,13 @@
     width: 100%;
 }
 
-
 /* 1.2 Verander de kleur van alle list items in de unordered list naar hsl(110, 29%, 52%) */
 ul li {
     color: hsl(110, 29%, 52%);
 }
 
-
 /* 1.3 Geef de 'span' tag in de footer een beschrijvende class name en maak de lettergrootte kleiner  */
-
-#designedby{
+#designed-by{
     font-size: smaller;
 }
 
@@ -25,13 +22,12 @@ nav a {
     color: hsl(359, 79%, 56%);
     text-decoration: none;
 }
+
 nav a:hover {
     color: hsl(359, 62%, 37%);
 }
 
-
 /* 1.5 Maak een hover- en visited stijl voor alle links in 'main'. */
-
 main a:hover {
     color: hsl(110, 29%, 52%);
 }
@@ -41,14 +37,12 @@ main a:visited {
 }
 
 /* Verander de achtergrond van de SignUp button. Tip: https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors  */
-
 #submit {
     background-color: hsl(359, 79%, 56%);
     color: white;
 }
 
 /* Geef het tekst-veld een blauwe rand wanneer hij in focus is */
-
 #emailadres:hover {
     border-color: #2828d4;
 }
