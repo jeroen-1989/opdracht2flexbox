@@ -49,8 +49,8 @@ main a:visited {
 
 /* Geef het tekst-veld een blauwe rand wanneer hij in focus is */
 
-#email:hover {
-    border-color: blue;
+#emailadres:hover {
+    border-color: #2828d4;
 }
 
 /* Target alle heading tags op de pagina en zet hun font-family op 'Bree Serif', serif */
